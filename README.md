@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanEmmers&count_private=true)](https://github.com/SeanEmmers/github-readme-stats)
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanEmmers&count_private=true&theme=onedark)
+)](https://github.com/SeanEmmers/github-readme-stats)
 
 
 <!--
