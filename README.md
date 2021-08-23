@@ -1,4 +1,4 @@
-[My Portfolio](https://portfolio-cyan-two-78.vercel.app/)
+[My Portfolio 👈](https://portfolio-cyan-two-78.vercel.app/)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanEmmers&count_private=true&theme=onedark)](https://github.com/SeanEmmers/github-readme-stats)
 
