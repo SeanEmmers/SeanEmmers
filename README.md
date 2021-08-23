@@ -1,6 +1,8 @@
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanEmmers&count_private=true&theme=onedark)](https://github.com/SeanEmmers/github-readme-stats)
+[![My Portfolio](https://portfolio-cyan-two-78.vercel.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanEmmers&layout=compact&theme=onedark)](https://github.com/SeanEmmers/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanEmmers&count_private=true&theme=onedark)](https://github.com/SeanEmmers/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanEmmers&layout=compact&theme=onedark)](https://github.com/SeanEmmers/github-readme-stats)
 
 
 
