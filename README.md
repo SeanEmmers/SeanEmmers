@@ -3,12 +3,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 View my projects on GitHub [Projects](https://github.com/SeanEmmers?tab=repositories)
+- 👨‍💻 View my GitHub [Projects](https://github.com/SeanEmmers?tab=repositories)
 
-- 📄 Get to know me better [GitHub CV](https://github.com/SeanEmmers/CV)
+- 📄 Take a look at my [GitHub CV](https://github.com/SeanEmmers/CV)
 
-- 💼 Take a look at my Portfolio website [Portfolio](https://portfolio-cyan-two-78.vercel.app/)
+- 💼 Check out my [Portfolio](https://portfolio-cyan-two-78.vercel.app/)
 
+<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/Sean%20Phillips-blue?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/sean-phillips-b62a3621a//)](https://www.linkedin.com/in/sean-phillips-b62a3621a/)
 [![Codewars Badge](https://www.codewars.com/users/SeanEmmers/badges/micro)](https://www.codewars.com/users/SeanEmmers)
