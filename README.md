@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [github.com/SeanEmmers](https://github.com/SeanEmmers?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/SeanEmmers?tab=repositories)
 
-- 📄 Get to know me better [github.com/SeanEmmers/CV](https://github.com/SeanEmmers/CV)
+- 📄 Get to know me better [GitHub CV](https://github.com/SeanEmmers/CV)
 
-- 💼 Take a look at my Portfolio website [My Portfolio](https://portfolio-cyan-two-78.vercel.app/)
+- 💼 Take a look at my Portfolio website [Portfolio](https://portfolio-cyan-two-78.vercel.app/)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanEmmers&count_private=true&theme=onedark)](https://github.com/SeanEmmers/github-readme-stats)
 
