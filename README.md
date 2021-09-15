@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sean</h1>
+<h1 align="center">Hi, I'm Sean</h1>
 <h3 align="center">An aspiring software developer based in Bath UK</h3>
 
 - 🌱 I’m currently learning **React**
