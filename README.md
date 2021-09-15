@@ -1,4 +1,13 @@
-[My Portfolio 👈](https://portfolio-cyan-two-78.vercel.app/)
+<h1 align="center">Hi 👋, I'm Sean</h1>
+<h3 align="center">An aspiring software developer based in Bath UK</h3>
+
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [github.com/SeanEmmers](https://github.com/SeanEmmers?tab=repositories)
+
+- 📄 Get to know me better [github.com/SeanEmmers/CV](https://github.com/SeanEmmers/CV)
+
+- 💼 Take a look at my Portfolio website [My Portfolio](https://portfolio-cyan-two-78.vercel.app/)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanEmmers&count_private=true&theme=onedark)](https://github.com/SeanEmmers/github-readme-stats)
 
