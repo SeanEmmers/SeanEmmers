@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">An aspiring software developer based in Bath UK</h3>
+<h1 align="center">Hi, I'm Sean 👋</h1>
+<h3 align="center">An aspiring software developer based in Bristol UK</h3>
 
 - 🌱 I’m currently learning **React**
 
@@ -38,7 +38,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 ## Github Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanEmmers&count_private=true&theme=onedark&hide_border=true)](https://github.com/SeanEmmers/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanEmmers&layout=compact&theme=onedark&hide_border=true)](https://github.com/SeanEmmers/github-readme-stats)
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=SeanEmmers&theme=onedark&hide_border=true)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SeanEmmers&count_private=true&theme=onedark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanEmmers&layout=compact&theme=onedark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SeanEmmers&theme=onedark&hide_border=true" />
+</p>
