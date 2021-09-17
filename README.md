@@ -16,6 +16,13 @@
 
 ---
 
+## My Top Projects
+
+[![Tricera-cops](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=tricera-cops&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/tricera-cops)
+[![GitHub Project](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=algorithm-training&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/algorithm-training)
+[![GitHub Project](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=acebook-rails-soda&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/acebook-rails-soda)
+[![GitHub Project](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=notes_app&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/notes_app)
+
 ## Languages & Tech
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img 
