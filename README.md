@@ -15,15 +15,6 @@
 [![Codewars Badge](https://www.codewars.com/users/SeanEmmers/badges/micro)](https://www.codewars.com/users/SeanEmmers)
 
 ---
-
-## My Top Projects
-[![Tricera-cops](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=tricera-cops&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/tricera-cops)
-[![Algorithm-Training](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=algorithm-training&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/algorithm-training)
-[![Acebook](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=acebook-rails-soda&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/acebook-rails-soda)
-[![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=notes_app&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/notes_app)
-[![Meals App](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=meals-rails&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/meals-rails)
-[![Bank Tech Test](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=bank-tech-test&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/bank-tech-test)
-
 ## Languages & Tech
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img 
