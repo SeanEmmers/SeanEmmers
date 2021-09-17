@@ -24,12 +24,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 ---
 
 ## My Top Projects
-[![Tricera-cops](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=tricera-cops&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/tricera-cops)
-[![Algorithm-Training](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=algorithm-training&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/algorithm-training)
-[![Acebook](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=acebook-rails-soda&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/acebook-rails-soda)
-[![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=notes_app&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/notes_app)
-[![Meals App](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=meals-rails&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/meals-rails)
-[![Bank Tech Test](https://github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=bank-tech-test&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A)](https://github.com/SeanEmmers/bank-tech-test)
+
+<p align ='left'>
+  <a href ='https://github.com/SeanEmmers/tricera-cops'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=tricera-cops&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/SeanEmmers/meals-rails'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=meals-rails&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/SeanEmmers/acebook-rails-soda'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=acebook-rails-soda&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/SeanEmmers/notes_app'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=notes_app&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/SeanEmmers/algorithm-training'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=algorithm-training&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/SeanEmmers/bank-tech-test'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SeanEmmers&repo=bank-tech-test&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+ </p>
 
 ---
 
