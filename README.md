@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 View my GitHub [Projects](https://github.com/SeanEmmers?tab=repositories)
-
 - 📄 Take a look at my [GitHub CV](https://github.com/SeanEmmers/CV)
 
 - 💼 Check out my [Portfolio](https://portfolio-cyan-two-78.vercel.app/)
