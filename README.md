@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sean 👋</h1>
-<h3 align="center">An aspiring software developer based in Bristol UK</h3>
+<h3 align="center">An aspiring software developer</h3>
 
 - 🌱 I’m currently learning **React**
 
