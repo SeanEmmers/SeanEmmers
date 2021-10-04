@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sean 👋</h1>
 <h3 align="center">An aspiring software developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 📄 Take a look at my [GitHub CV](https://github.com/SeanEmmers/CV)
 
